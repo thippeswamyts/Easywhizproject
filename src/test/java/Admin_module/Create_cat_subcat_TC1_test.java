@@ -20,7 +20,8 @@ public class Create_cat_subcat_TC1_test
 	    public static  WebDriver driver = null ;
         public static void main(String[] args) throws IOException, InterruptedException
         {
-        	
+
+		  // first changes welcome from git bash
         	
 			   Random r = new Random();
 			   int ran = r.nextInt(500);
