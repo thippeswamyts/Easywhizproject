@@ -22,6 +22,8 @@ public class Create_cat_subcat_TC1_test
         {
 
 		  // first changes welcome from git bash
+           // in this test related to admin module	
+        	
         	
 			   Random r = new Random();
 			   int ran = r.nextInt(500);
